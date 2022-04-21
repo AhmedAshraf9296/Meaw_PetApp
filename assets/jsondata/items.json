@@ -1,0 +1,98 @@
+[
+    {
+        "Id": 2,
+        "Code": " ",
+        "Name": "Artu Croquettes With Chicken Dog Dry Food - 4 Kg",
+        "Descriptions": "Complete food for all breeds dogs with chicken. Tasty and digestible with vitamins A, D3 and E that promote the health and well-being of the animal. No coloring agents and preservatives.",
+        "Price": 185.00,
+        "Qty": 100,
+        "CategoryId": 1,
+        "CategoryName": "dogs",
+        "ImgUrl": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/83/6066/1.jpg",
+        "Rate": 4.0
+    },
+    {
+        "Id": 3,
+        "Code": " ",
+        "Name": "Mera Dog Essential Knabber Riese Snack - 90 G - 2Pcs",
+        "Descriptions": "Mera Knabber Reise Dog Snacks , 20% protein / 5% fat 100% made in Germany Production according to food standard Production with green electricity – CO 2 neutral Without coloring and preservatives Dog biscuits from Mera dog are available in the well-stocked pet shop.",
+        "Price": 100.00,
+        "Qty": 100,
+        "CategoryId": 1,
+        "CategoryName": "dogs",
+        "ImgUrl": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/09/787632/1.jpg",
+        "Rate": 4.0
+    },
+    {
+        "Id": 4,
+        "Code": " ",
+        "Name": "Happy Dog Profiline 26-16 Sportive 20 kg",
+        "Descriptions": "The energy- rich Happy Dog-Profi Line 26-16 SPORTIVE feed brings a greater proportion of structural proteins and more energy together to cater to the needs of working, sport or breeding dogs in a period of increased activity. The recipe is prepared on the basis of a hearty red beef muscle, which is the optimal source of protein for building all breeds of dogs. Hearty red meat and white meat (poultry and fish) are easily digestible for all dogs. This feed is also suitable for feeding pregnant and lactating bitches. It can alternatively be used in rearing active young dogs of medium and large breeds, who are already enrolled in active training and workout. The food contains all the essential minerals, trace elements and vitamins in proportions optimized for medium to large dogs. It is therefore economical version of dog nutrition wherever higher demands are placed on them that require a steady supply of all necessary nutrients.The recipe is prepared on the basis of a hearty red beef muscle , which is an optimal source of structural proteins for all breeds of dogs. Hearty red meat is completed easily digestible white meat poultry and fish . Easily digestible poultry fat again delivers a ready energy. Feed can be deployed wherever required higher muscle activity and lighter physical performance . It is also suitable for consumption by pregnant and lactating bitches. It can be alternatively deploy active in rearing young dogs of medium and large breeds who are already enrolled in active training and workouts. The feed contains all necessary minerals, trace elements and vitamins in the proportions optimized for medium load dogs. It is therefore an economic option dog nutrition wherever there are higher demands on the supply of nutrients. ",
+        "Price": 1395.00,
+        "Qty": 100,
+        "CategoryId": 1,
+        "CategoryName": "dogs",
+        "ImgUrl": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/38/5812/1.jpg",
+        "Rate": 4.7
+    },
+    {
+        "Id": 5,
+        "Code": " ",
+        "Name": "Purina Friskies With Salmon In Gravey Cat Food Single Serve Pouch - 100G",
+        "Descriptions": "Description: Tender bites made with salmon and smothered with gravy. Ahh, if only every meal were this gravy-licous. Friskies provides taste adventures that feed a cat’s playfulness and curiosity. With a wide variety of wet foods, Friskies feeds the senses.",
+        "Price": 35.99,
+        "Qty": 100,
+        "CategoryId": 2,
+        "CategoryName": "cats",
+        "ImgUrl": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/22/712391/1.jpg",
+        "Rate": 2.1
+    },
+    {
+        "Id": 6,
+        "Code": " ",
+        "Name": "Van Cat Litter Perfumed With Marseille Soap - 5Kg",
+        "Descriptions": "It is the clumping size that is most seller in the market. Its clumping is round like a snowball rather than being flat as compared to other products. Its liquid absorbing capacity is high. It is rather ideal for adult cats.",
+        "Price": 100.00,
+        "Qty": 100,
+        "CategoryId": 2,
+        "CategoryName": "cats",
+        "ImgUrl": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/79/986732/1.jpg",
+        "Rate": 2.1
+    },
+    {
+        "Id": 7,
+        "Code": " ",
+        "Name": "Van Cat Litter Perfumed With Marseille Soap - 5Kg",
+        "Descriptions": "It is the clumping size that is most seller in the market. Its clumping is round like a snowball rather than being flat as compared to other products. Its liquid absorbing capacity is high. It is rather ideal for adult cats.",
+        "Price": 140.00,
+        "Qty": 100,
+        "CategoryId": 2,
+        "CategoryName": "cats",
+        "ImgUrl": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/79/986732/1.jpg",
+        "Rate": 3.9
+    },
+    {
+        "Id": 8,
+        "Code": " ",
+        "Name": "Happy Cat Minkas Urinary Care Adult Cat Dry Food 10KG",
+        "Descriptions": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+        "Price": 1500.00,
+        "Qty": 100,
+        "CategoryId": 2,
+        "CategoryName": "cats",
+        "ImgUrl": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/68/871952/1.jpg",
+        "Rate": 3.0
+    },
+    {
+        "Id": 9,
+        "Code": " ",
+        "Name": "Pioneer Dry Food For Dogs - 18 Kg",
+        "Descriptions": "Complete food for adult dogs made from the finest ingredients.",
+        "Price": 450.99,
+        "Qty": 100,
+        "CategoryId": 1,
+        "CategoryName": "dogs",
+        "ImgUrl": "https://eg.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/99/130152/1.jpg",
+        "Rate": 1.8
+    }
+]

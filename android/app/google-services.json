@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "215147546170",
+    "project_id": "meaw-d6ee5",
+    "storage_bucket": "meaw-d6ee5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215147546170:android:bd0cc478b9a8771c74d703",
+        "android_client_info": {
+          "package_name": "com.example.meaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215147546170-1v5e8lsubs3acgevl6frbnsqj497pjvp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meaw",
+            "certificate_hash": "504facf0330c263a256d0fa5889d046fdf90e6f7"
+          }
+        },
+        {
+          "client_id": "215147546170-n29u7i69hf4e7k88qsma7ndmh04s5dk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeOZpRhghn7Od6Zwkm8dS6y-4KfR4vvJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215147546170-n29u7i69hf4e7k88qsma7ndmh04s5dk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
